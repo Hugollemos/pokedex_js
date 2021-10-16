@@ -27,6 +27,6 @@ const fetchPokemon = () => {
 
       ul.innerHTML = lisPokemons
     })
-}
+} 
 
 fetchPokemon()
